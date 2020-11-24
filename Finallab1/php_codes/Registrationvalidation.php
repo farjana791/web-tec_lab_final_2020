@@ -79,7 +79,7 @@
             }
 
             $p=$pass;
-            $pt=md5($pass);
+            $p=md5($pass);
 			echo $p;
 
             if(strcmp($type,"User")==0){

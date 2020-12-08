@@ -12,8 +12,9 @@
             <input type="text" id="email" placeholder="Email" name="email"><span id="err_email" style="color:red;"></span><br>
             <input type="number" id="phone" placeholder="Phone" name="phone"><span id="err_phone" style="color:red;"></span><br>
             <input type="submit" name="register" value="Register">
-        </form>
-        </center>
-        <script src="../scripts/validation.js"></script>
+			
+         </form>
+         </center>
+         <script src="../scripts/validation.js"></script>
     </body>
 </html>
